@@ -1,0 +1,10 @@
+.Alert {
+    margin-top: 5px;
+}
+
+.Alert-text {
+    text-align: right;
+    font-size: 12px;
+    margin-right: 100px;
+    color: #f45942;
+}

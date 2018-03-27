@@ -1,0 +1,13 @@
+.AirQuality {
+    position: absolute;
+    right: 130px;
+    top: 30px;
+    color: #8c8c8c;
+    font-size: 14px;
+}
+
+.AirQuality-so2 {
+    margin-top: 10px;
+    font-size: 12px;
+}
+

@@ -1,0 +1,26 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #5c6e8c;
+  background-color: #f9efb1;
+}
+
+#root {
+    background: white;
+}
+
+.Heading {
+    height: 50px;
+    background-color: #a0cde8;
+}
+
+.Heading-text {
+    color: white;
+	font-size: 24px;
+	font-weight: 300;
+    position: absolute;
+    margin-left: 40px;
+    margin-top: 10px;
+}

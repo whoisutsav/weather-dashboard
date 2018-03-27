@@ -1,0 +1,37 @@
+.ForecastDay {
+    width: 120px;
+    padding: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    background: #f9efb1;
+}
+
+.ForecastDay-day {
+    text-align: center;
+    font-weight: 700;
+    font-color: #a0a0a0;
+}
+
+.ForecastDay-icon {
+    margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+
+.ForecastDay-max {
+    text-align: center;
+}
+
+.ForecastDay-min {
+    text-align: center;
+}
+
+.ForecastDay-details {
+    text-align: center;
+    margin-top: 20px;
+    cursor: default;
+    font-size: 10px;
+}
+
+.ForecastDay-humidity {
+    margin-top: 10px;
+}

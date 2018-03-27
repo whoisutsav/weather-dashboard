@@ -1,0 +1,15 @@
+.CurrentWeather {
+    width: 130px;
+    text-align: center;
+    padding: 10px 0px;
+}
+
+.CurrentWeather-headline {
+    font-size: 22px;
+}
+
+.CurrentWeather-now {
+    font-size: 26px;
+    text-align: center;
+}
+

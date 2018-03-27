@@ -1,0 +1,26 @@
+.Params {
+    text-align: right;
+    cursor: default;
+}
+
+.Params-city {
+    font-size: 24px;
+    font-weight: 600;
+    margin-right: 30px;
+    color: #db6323;
+}
+
+
+.Params-celsius[bold="true"] {
+    font-weight: 700;
+}
+
+.Params-farenheit {
+    margin-right: 10px;
+}
+
+.Params-farenheit[bold="true"] {
+    font-weight: 700;
+}
+
+

@@ -1,0 +1,20 @@
+.NotificationForm {
+    font-size: 12px;
+}
+
+.NotificationForm-input {
+    width: 30px;
+}
+
+.NotificationForm-button {
+    border: 1px solid;
+    padding: 0px 2px;
+    cursor: default;
+    margin-left: 10px;
+}
+
+.NotificationForm-button[submitted="true"] {
+    border: 1px solid #d1d1d1;
+    color: #d1d1d1; 
+
+}
