@@ -4,8 +4,13 @@ An app that displays current weather conditions
 
 # Run app
 
-`npm start`
+```
+npm install 
+npm start
+```
 
 # Run tests
 
-`npm test`
+```
+npm test
+```
